@@ -12,9 +12,7 @@ Consider code is as organized as it should or has security or have advanced prac
 
 If you want to work the code will need to import the database. It's in the repository with the name datos.sql Database.
 
-Online demo: http://otrariam.16mb.com/login.php
 You can contact to help mail: proyect.hd@gmail.com
-Twitter: https://twitter.com/Alfon_LC
 
 anecdotes:
 
