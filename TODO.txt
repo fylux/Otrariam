@@ -1,0 +1,14 @@
+ERROR TROOPS HAD NOT CONSUME IF CEREAL BACK OF A ROBBERY AND NOT YOU UPDATED
+
+Change recurso_busca market to enum field.
+Power cancel attacks.
+Use prepared and '?' to prevent sql injections.
+Use friendly URLs
+Place names in English to the variables and functions prograsivamente.
+Create data for all units.
+Make a ranking that takes into account population, troops, attacks and buildings.
+Power to Robbery
+Found Power villages
+Conquering Power villages
+
+September update map name = "Free Land", type = "Nature", inhabitants = 0 wood = 0, mud = 0 iron = 0, cereal = 0, last_update = 0 capital ='', user_id = 0
