@@ -12,8 +12,6 @@ Consider code is as organized as it should or has security or have advanced prac
 
 If you want to work the code will need to import the database. It's in the repository with the name datos.sql Database.
 
-You can contact to help mail: proyect.hd@gmail.com
-
 anecdotes:
 
 Every time I tried to test the store and had an error creating a new user account, with the letters of the alphabet and came to the S (a, b, c ... s)
